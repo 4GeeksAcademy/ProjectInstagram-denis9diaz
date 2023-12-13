@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+    margin: 0;
+}
+.container{
+    background-color: white;
+    width: 300px;
+    padding-bottom: 15px;
+    margin: 10% 10% 20% 40%; 
+}
+.img{
+    width: 300px;
+    height: 300px;
+}
+.post-header{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.post-h3{
+    margin-right: auto;
+   
+}
+.post-h3 h3{
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.post-body{
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.icono-3{
+    margin-right: auto;
+}
+.iconos{
+    display: flex;
+}
+.icono-5{
+    margin-right: 5px;
+    margin-top: 10px;
+}
+.icono-1{
+    margin-right: 5px;
+}
+.icono-2{
+    margin-right: 5px;
+}
+.icono-6{
+    margin-top: 10px;
+}
+.likes{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.description{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
